@@ -1,4 +1,4 @@
-.button {
+.drakelam-button-green {
   background-color: #4CAF50;
   border: none;
   color: white;
@@ -11,7 +11,7 @@
   cursor: pointer;
 }
 
-.button2 {background-color: #008CBA;} /* Blue */
-.button3 {background-color: #f44336;} /* Red */ 
-.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
-.button5 {background-color: #555555;} /* Black */
+.drakelam-button-blue {background-color: #008CBA;} /* Blue */
+.drakelam-button-red {background-color: #f44336;} /* Red */ 
+.drakelam-button-gray {background-color: #e7e7e7; color: black;} /* Gray */ 
+.drakelam-button-black {background-color: #555555;} /* Black */
